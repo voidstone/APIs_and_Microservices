@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Chaikin Sergey",
+	"author": "Chaikin Serg",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
